@@ -1,0 +1,234 @@
+ID,adj.P.Val,P.Value,t,B,logFC,Gene.symbol,Gene.title
+217414_x_at,6.15e-11,2.76e-15,-9.2046942,23.631368,-7.583166,HBA2///HBA1,hemoglobin subunit alpha 2///hemoglobin subunit alpha 1
+214414_x_at,8.48e-10,7.61e-14,-8.5689063,20.567525,-5.8034911,HBA2///HBA1,hemoglobin subunit alpha 2///hemoglobin subunit alpha 1
+209458_x_at,7.76e-09,1.39e-12,-8.0052313,17.876878,-5.9135411,HBA2///HBA1,hemoglobin subunit alpha 2///hemoglobin subunit alpha 1
+204018_x_at,8.93e-09,2e-12,-7.9340151,17.539423,-5.8556995,HBA2///HBA1,hemoglobin subunit alpha 2///hemoglobin subunit alpha 1
+211745_x_at,1.86e-08,5.01e-12,-7.7540718,16.689796,-5.8894709,HBA2///HBA1,hemoglobin subunit alpha 2///hemoglobin subunit alpha 1
+211699_x_at,5.54e-08,1.74e-11,-7.5078383,15.534998,-5.9281906,HBA2///HBA1,hemoglobin subunit alpha 2///hemoglobin subunit alpha 1
+217232_x_at,1.56e-06,7.01e-10,-6.7619237,12.10621,-3.9695337,HBB,hemoglobin subunit beta
+221882_s_at,2.6e-06,1.4e-09,-6.6188149,11.462834,-2.3082747,TMEM8A,transmembrane protein 8A
+211696_x_at,1.03e-05,6.96e-09,-6.2831085,9.975526,-3.6260019,HBB,hemoglobin subunit beta
+209116_x_at,2.84e-05,2.29e-08,-6.0285455,8.87039,-4.1852174,HBB,hemoglobin subunit beta
+215832_x_at,2.89e-05,2.46e-08,-6.0131584,8.804268,-1.0486885,PICALM,phosphatidylinositol binding clathrin assembly protein
+213872_at,5.24e-05,4.94e-08,-5.8618676,8.158469,-2.0067127,,
+211559_s_at,6.46e-05,7.25e-08,-5.7778684,7.803413,-1.8380035,CCNG2,cyclin G2
+211795_s_at,7.44e-05,9.3e-08,-5.7230106,7.572931,-1.9877379,FYB,FYN binding protein
+213747_at,0.000101,1.37e-07,-5.6377749,7.217067,-3.1574937,AZIN1,antizyme inhibitor 1
+221194_s_at,0.000111,1.55e-07,-5.6095216,7.099723,-1.2188152,TBC1D3P1-DHX40P1///RNFT1,"TBC1D3P1-DHX40P1 readthrough, transcribed pseudogene///ring finger protein, transmembrane 1"
+1405_i_at,0.000132,1.9e-07,-5.5640576,6.911552,-3.8960495,CCL5,C-C motif chemokine ligand 5
+204848_x_at,0.000159,2.49e-07,-5.5031934,6.660925,-7.2460133,HBG2///HBG1,hemoglobin subunit gamma 2///hemoglobin subunit gamma 1
+207980_s_at,0.000344,6.47e-07,-5.2859325,5.778697,-1.7039223,CITED2,Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2
+207563_s_at,0.000349,6.83e-07,-5.2737357,5.729763,-1.2174612,OGT,O-linked N-acetylglucosamine (GlcNAc) transferase
+201048_x_at,0.000349,6.89e-07,-5.2714752,5.720701,-2.4169957,WTH3DI///RAB6A,"RAB6C-like///RAB6A, member RAS oncogene family"
+212514_x_at,0.000369,7.63e-07,-5.2481929,5.627493,-1.7381499,DDX3X,"DEAD-box helicase 3, X-linked"
+207549_x_at,0.000416,1e-06,-5.1845371,5.373873,-1.1525289,CD46,CD46 molecule
+200742_s_at,0.000416,1.06e-06,-5.1729394,5.327859,-1.7258088,TPP1,tripeptidyl peptidase 1
+204507_s_at,0.000416,1.1e-06,-5.1637262,5.291348,-1.8124326,PPP3R1,"protein phosphatase 3 regulatory subunit B, alpha"
+217022_s_at,0.000416,1.1e-06,-5.162876,5.287981,-5.4743924,IGHA2///IGHA1///IGH,immunoglobulin heavy constant alpha 2 (A2m marker)///immunoglobulin heavy constant alpha 1///immunoglobulin heavy locus
+200604_s_at,0.000417,1.12e-06,-5.1584651,5.270516,-1.8163844,PRKAR1A,protein kinase cAMP-dependent type I regulatory subunit alpha
+211426_x_at,0.000426,1.17e-06,-5.149628,5.235553,-1.0610681,GNAQ,G protein subunit alpha q
+215086_at,0.000478,1.35e-06,-5.11541,5.100505,-3.0628321,IBTK,inhibitor of Bruton tyrosine kinase
+205592_at,0.000651,1.96e-06,-5.0281493,4.758544,-4.7768237,SLC4A1,solute carrier family 4 member 1 (Diego blood group)
+203676_at,0.000666,2.06e-06,-5.0161536,4.711811,-2.6151343,GNS,glucosamine (N-acetyl)-6-sulfatase
+37145_at,0.00071,2.32e-06,-4.9873079,4.599711,-3.5877293,GNLY,granulysin
+213539_at,0.000711,2.36e-06,-4.9836389,4.585481,-3.5330257,CD3D,CD3d molecule
+213548_s_at,0.000778,2.76e-06,-4.9465606,4.442032,-2.2169778,CDV3,CDV3 homolog
+216933_x_at,0.000795,2.86e-06,-4.9375837,4.407401,-2.1221109,APC,"APC, WNT signaling pathway regulator"
+211665_s_at,0.000795,2.89e-06,-4.9353539,4.398805,-1.4698163,SOS2,SOS Ras/Rho guanine nucleotide exchange factor 2
+205898_at,0.000825,3.04e-06,-4.9235323,4.353271,-5.078552,CX3CR1,C-X3-C motif chemokine receptor 1
+213772_s_at,0.000874,3.33e-06,-4.9012374,4.267581,-1.6519572,GGA2,"golgi associated, gamma adaptin ear containing, ARF binding protein 2"
+218228_s_at,0.000947,3.67e-06,-4.8779081,4.178173,-1.2180441,TNKS2,tankyrase 2
+39891_at,0.000968,3.86e-06,-4.8657593,4.131719,-1.2640041,ZNF710,zinc finger protein 710
+200641_s_at,0.00104,4.24e-06,-4.8431988,4.045645,-1.1320692,YWHAZ,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta
+217281_x_at,0.00114,4.98e-06,-4.8044583,3.898428,-4.110256,LOC102725526///IGHV4-31///IGHM///IGHG3///IGHG2///IGHG1///IGHA2///IGHA1///IGH,uncharacterized LOC102725526///immunoglobulin heavy variable 4-31///immunoglobulin heavy constant mu///immunoglobulin heavy constant gamma 3 (G3m marker)///immunoglobulin heavy constant gamma 2 (G2m marker)///immunoglobulin heavy constant gamma 1 (G1m marker)///immunoglobulin heavy constant alpha 2 (A2m marker)///immunoglobulin heavy constant alpha 1///immunoglobulin heavy locus
+217388_s_at,0.00124,5.62e-06,-4.7752908,3.788082,-4.3456697,KYNU,kynureninase
+216984_x_at,0.00193,9.44e-06,-4.6478236,3.310918,-3.7110966,IGLJ3///IGLV1-44///CKAP2///IGLV@///IGLC1,immunoglobulin lambda joining 3///immunoglobulin lambda variable 1-44///cytoskeleton associated protein 2///immunoglobulin lambda variable cluster///immunoglobulin lambda constant 1
+211749_s_at,0.00198,9.94e-06,-4.6351252,3.263842,-1.3484836,VAMP3,vesicle associated membrane protein 3
+204419_x_at,0.00198,1e-05,-4.6328227,3.255315,-5.2938612,HBG2///HBG1,hemoglobin subunit gamma 2///hemoglobin subunit gamma 1
+206508_at,0.00209,1.09e-05,-4.6129946,3.181998,-2.3372651,CD70,CD70 molecule
+207686_s_at,0.00211,1.12e-05,-4.6059057,3.155837,-1.729046,CASP8,caspase 8
+212008_at,0.00223,1.2e-05,-4.5879754,3.089783,-1.016438,UBXN4,UBX domain protein 4
+211902_x_at,0.00226,1.25e-05,-4.5774226,3.050986,-1.7268876,YME1L1,YME1 like 1 ATPase
+209357_at,0.00237,1.36e-05,-4.5563703,2.973766,-1.4921594,CITED2,Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2
+206380_s_at,0.00238,1.38e-05,-4.5533715,2.962785,-5.0524321,CFP,complement factor properdin
+205821_at,0.0024,1.4e-05,-4.5498963,2.950067,-2.4321724,KLRC4-KLRK1///KLRK1,KLRC4-KLRK1 readthrough///killer cell lectin like receptor K1
+200628_s_at,0.00266,1.56e-05,-4.5219253,2.847932,-1.9086333,WARS,tryptophanyl-tRNA synthetase
+209906_at,0.0027,1.6e-05,-4.5166179,2.8286,-2.7401984,C3AR1,complement component 3a receptor 1
+201089_at,0.00289,1.78e-05,-4.4893555,2.729535,-1.3717406,ATP6V1B2,ATPase H+ transporting V1 subunit B2
+200743_s_at,0.00289,1.8e-05,-4.4858482,2.71682,-1.2014906,TPP1,tripeptidyl peptidase 1
+209189_at,0.00289,1.81e-05,-4.4852143,2.714523,-2.2316874,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit"
+213695_at,0.00289,1.82e-05,-4.48439,2.711535,-2.4008388,PON3,paraoxonase 3
+201992_s_at,0.00304,1.93e-05,-4.4682612,2.653161,-1.1801035,KIF5B,kinesin family member 5B
+215214_at,0.00308,2.01e-05,-4.4580071,2.616123,-3.5577945,IGLC1,immunoglobulin lambda constant 1
+208018_s_at,0.0032,2.21e-05,-4.4340475,2.529804,-2.8968454,HCK,"HCK proto-oncogene, Src family tyrosine kinase"
+202604_x_at,0.00324,2.27e-05,-4.4271978,2.505184,-1.00452,ADAM10,ADAM metallopeptidase domain 10
+210167_s_at,0.00324,2.28e-05,-4.4263396,2.502102,-2.882547,TEF,"TEF, PAR bZIP transcription factor"
+216714_at,0.00345,2.51e-05,-4.4019875,2.414796,-1.202768,CCL13,C-C motif chemokine ligand 13
+216591_s_at,0.00345,2.55e-05,-4.3982874,2.40156,-1.6589883,SDHC,succinate dehydrogenase complex subunit C
+207238_s_at,0.00345,2.58e-05,-4.3946737,2.38864,-1.3302007,PTPRC,"protein tyrosine phosphatase, receptor type C"
+202815_s_at,0.00348,2.68e-05,-4.3856646,2.356461,-1.3473054,HEXIM1,hexamethylene bisacetamide inducible 1
+208708_x_at,0.00409,3.44e-05,-4.3213514,2.128067,-1.0042945,EIF5,eukaryotic translation initiation factor 5
+214483_s_at,0.00414,3.49e-05,-4.3171709,2.113302,-1.506831,ARFIP1,ADP ribosylation factor interacting protein 1
+200769_s_at,0.00416,3.53e-05,-4.3146862,2.10453,-1.1781507,MAT2A,methionine adenosyltransferase 2A
+210031_at,0.00447,3.87e-05,-4.2902593,2.018488,-2.4992989,CD247,CD247 molecule
+200661_at,0.00461,4.01e-05,-4.2810631,1.986183,-1.4536325,CTSA,cathepsin A
+217378_x_at,0.00477,4.26e-05,-4.2656893,1.932285,-3.6566615,IGKV1OR2-108,immunoglobulin kappa variable 1/OR2-108 (non-functional)
+207809_s_at,0.00491,4.45e-05,-4.2538688,1.890937,-1.0598379,ATP6AP1,ATPase H+ transporting accessory protein 1
+213515_x_at,0.00491,4.47e-05,-4.253008,1.887929,-4.576933,HBG2///HBG1,hemoglobin subunit gamma 2///hemoglobin subunit gamma 1
+213836_s_at,0.00499,4.59e-05,-4.2462093,1.864187,-2.3954812,WIPI1,"WD repeat domain, phosphoinositide interacting 1"
+221651_x_at,0.00528,5.02e-05,-4.2226372,1.782076,-2.9590205,IGK///IGKC,immunoglobulin kappa locus///immunoglobulin kappa constant
+201140_s_at,0.00606,6.1e-05,-4.171119,1.603744,-1.3688783,RAB5C,"RAB5C, member RAS oncogene family"
+210148_at,0.00606,6.12e-05,-4.1704064,1.601287,-1.8866111,HIPK3,homeodomain interacting protein kinase 3
+205758_at,0.00667,6.92e-05,-4.1378671,1.489467,-2.1553157,CD8A,CD8a molecule
+211560_s_at,0.0068,7.17e-05,-4.1284428,1.457198,-5.4581447,ALAS2,5'-aminolevulinate synthase 2
+215236_s_at,0.00712,7.64e-05,-4.1115005,1.399318,-2.2365737,PICALM,phosphatidylinositol binding clathrin assembly protein
+204986_s_at,0.00733,7.92e-05,-4.1018018,1.366262,-1.2556131,TAOK2,TAO kinase 2
+219868_s_at,0.00737,8.07e-05,-4.0967872,1.349193,-1.3529157,ANKFY1,ankyrin repeat and FYVE domain containing 1
+212286_at,0.0074,8.14e-05,-4.0946734,1.342003,-1.660758,ANKRD12,ankyrin repeat domain 12
+219186_at,0.00754,8.39e-05,-4.0865176,1.314283,-1.2298619,ZBTB7A,zinc finger and BTB domain containing 7A
+202416_at,0.00759,8.5e-05,-4.0830338,1.302455,-1.143117,DNAJC7,DnaJ heat shock protein family (Hsp40) member C7
+205822_s_at,0.00775,8.83e-05,-4.0728923,1.268064,-1.3531118,HMGCS1,3-hydroxy-3-methylglutaryl-CoA synthase 1
+202876_s_at,0.00775,8.91e-05,-4.0704203,1.25969,-1.1088465,PBX2,PBX homeobox 2
+215176_x_at,0.00805,9.52e-05,-4.0526575,1.199629,-2.8614249,IGK///IGKC,immunoglobulin kappa locus///immunoglobulin kappa constant
+210972_x_at,0.00823,9.8e-05,-4.0446341,1.172563,-1.6016569,TRAC///TRAJ17///TRAV20///TRDV2,T-cell receptor alpha constant///T cell receptor alpha joining 17///T cell receptor alpha variable 20///T cell receptor delta variable 2
+210935_s_at,0.00864,0.000105,-4.0259884,1.109812,-1.8157049,WDR1,WD repeat domain 1
+217179_x_at,0.00871,0.000106,-4.0228271,1.099195,-1.9180198,BMS1P20,"BMS1, ribosome biogenesis factor pseudogene 20"
+205170_at,0.00874,0.000107,-4.0204472,1.091205,-1.1657304,STAT2,signal transducer and activator of transcription 2
+207764_s_at,0.00901,0.000112,-4.0093907,1.054132,-1.8465768,HIPK3,homeodomain interacting protein kinase 3
+1773_at,0.00945,0.000122,-3.9862797,0.976882,-1.7076993,CHURC1-FNTB///FNTB,"CHURC1-FNTB readthrough///farnesyltransferase, CAAX box, beta"
+214786_at,0.0102,0.000133,-3.9610582,0.892952,-2.3953836,MAP3K1,mitogen-activated protein kinase kinase kinase 1
+214196_s_at,0.0102,0.000135,-3.9576376,0.881599,-2.0088493,TPP1,tripeptidyl peptidase 1
+201666_at,0.0108,0.000144,-3.939856,0.8227,-1.8134429,TIMP1,TIMP metallopeptidase inhibitor 1
+221571_at,0.0108,0.000145,-3.9376685,0.815467,-1.1182748,TRAF3,TNF receptor associated factor 3
+64064_at,0.0109,0.000147,-3.9335344,0.801807,-1.2245697,GIMAP1-GIMAP5///GIMAP5,"GIMAP1-GIMAP5 readthrough///GTPase, IMAP family member 5"
+218295_s_at,0.011,0.000149,-3.9314598,0.794957,-1.4272561,NUP50,nucleoporin 50
+217480_x_at,0.0113,0.000156,-3.9177537,0.749762,-1.2020631,IGKV1OR2-118,immunoglobulin kappa variable 1/OR2-118 (pseudogene)
+216207_x_at,0.0115,0.00016,-3.9109686,0.727432,-1.6643358,IGKC,immunoglobulin kappa constant
+203155_at,0.0118,0.000165,-3.9019171,0.697688,-1.0543569,SETDB1,SET domain bifurcated 1
+206044_s_at,0.0121,0.000173,-3.8902177,0.659319,-1.0300259,KIAA1549///BRAF,"KIAA1549///B-Raf proto-oncogene, serine/threonine kinase"
+221671_x_at,0.0122,0.000177,-3.883374,0.636914,-2.9242211,IGK///IGKC,immunoglobulin kappa locus///immunoglobulin kappa constant
+219371_s_at,0.0123,0.000179,-3.8802776,0.626787,-2.0688807,KLF2,Kruppel like factor 2
+202525_at,0.0124,0.000182,-3.875562,0.611375,-1.5320679,PRSS8,"protease, serine 8"
+218660_at,0.0124,0.000183,-3.8745517,0.608075,-3.1774257,DYSF,dysferlin
+205640_at,0.0132,0.000197,-3.8539897,0.541051,-2.4375474,ALDH3B1,aldehyde dehydrogenase 3 family member B1
+204122_at,0.0137,0.000204,-3.8435933,0.507264,-2.6456308,TYROBP,TYRO protein tyrosine kinase binding protein
+214582_at,0.0137,0.000206,-3.8413727,0.500057,-1.3914351,PDE3B,phosphodiesterase 3B
+215147_at,0.0137,0.000206,-3.8406225,0.497622,-1.544198,,
+207841_at,0.0137,0.000207,-3.8398819,0.495219,-1.8002222,SPIN2A,spindlin family member 2A
+214617_at,0.0138,0.00021,-3.8359388,0.482432,-1.7852842,PRF1,perforin 1
+220442_at,0.0139,0.000211,-3.8338609,0.475697,-1.9147829,POC1B-GALNT4///GALNT4,POC1B-GALNT4 readthrough///polypeptide N-acetylgalactosaminyltransferase 4
+201337_s_at,0.0141,0.00022,-3.8226034,0.439259,-1.8117717,VAMP3,vesicle associated membrane protein 3
+202150_s_at,0.0141,0.000221,-3.8210518,0.434243,-1.738777,NEDD9,"neural precursor cell expressed, developmentally down-regulated 9"
+211798_x_at,0.0142,0.000223,-3.8185449,0.426142,-2.4651693,IGLJ3,immunoglobulin lambda joining 3
+220140_s_at,0.0147,0.000235,-3.8045223,0.380903,-1.3086885,SNX11,sorting nexin 11
+214866_at,0.0152,0.000248,-3.7893405,0.332065,-1.1838045,PLAUR,"plasminogen activator, urokinase receptor"
+218890_x_at,0.0153,0.000251,-3.7852613,0.318968,-2.0109326,MRPL35,mitochondrial ribosomal protein L35
+207459_x_at,0.0153,0.000253,-3.7834718,0.313226,-3.2171142,GYPB,glycophorin B (MNS blood group)
+205865_at,0.0158,0.000265,-3.7702904,0.270993,-1.8666031,ARID3A,AT-rich interaction domain 3A
+211645_x_at,0.0158,0.000265,-3.7700869,0.270342,-2.5405386,,
+202910_s_at,0.016,0.000271,-3.7636914,0.249892,-1.5631172,ADGRE5,adhesion G protein-coupled receptor E5
+214787_at,0.016,0.000273,-3.7618732,0.244082,-1.5284201,DENND4A,DENN domain containing 4A
+207601_at,0.016,0.000274,-3.7607134,0.240378,-1.2628982,SULT1B1,sulfotransferase family 1B member 1
+210638_s_at,0.0161,0.000279,-3.7553916,0.223392,-1.1530368,FBXO9,F-box protein 9
+212335_at,0.0161,0.000281,-3.7538649,0.218522,-1.4253408,GNS,glucosamine (N-acetyl)-6-sulfatase
+221223_x_at,0.0165,0.000289,-3.7457621,0.192702,-1.2452709,CISH,cytokine inducible SH2 containing protein
+216576_x_at,0.0166,0.000292,-3.7432941,0.184846,-2.9282131,IGK///IGKC,immunoglobulin kappa locus///immunoglobulin kappa constant
+206215_at,0.0167,0.000293,-3.7419756,0.18065,-2.0188403,OPCML,opioid binding protein/cell adhesion molecule like
+203827_at,0.0173,0.000307,-3.7284541,0.137691,-2.6755994,WIPI1,"WD repeat domain, phosphoinositide interacting 1"
+204351_at,0.0177,0.000315,-3.7210616,0.114254,-4.4113987,S100P,S100 calcium binding protein P
+214973_x_at,0.0177,0.000318,-3.7187148,0.106822,-2.5674027,IGHD,immunoglobulin heavy constant delta
+202213_s_at,0.0178,0.000321,-3.7160229,0.0983,-1.2299056,CUL4B,cullin 4B
+201211_s_at,0.0189,0.000348,-3.6929273,0.025385,-1.719758,DDX3X,"DEAD-box helicase 3, X-linked"
+201156_s_at,0.0191,0.000354,-3.6877877,0.009206,-1.5257727,RAB5C,"RAB5C, member RAS oncogene family"
+221866_at,0.0191,0.00036,-3.6831691,-0.005318,-2.0267486,TFEB,transcription factor EB
+214836_x_at,0.0196,0.000375,-3.6717935,-0.041032,-2.0918971,IGK///IGKC,immunoglobulin kappa locus///immunoglobulin kappa constant
+207538_at,0.0196,0.000376,-3.6705516,-0.044925,-2.7464495,IL4,interleukin 4
+214793_at,0.0198,0.000383,-3.6654518,-0.060904,-2.6726379,DUSP7,dual specificity phosphatase 7
+215706_x_at,0.0203,0.000402,-3.6512496,-0.105313,-1.2597288,ZYX,zyxin
+215277_at,0.0203,0.000403,-3.6509697,-0.106187,-1.8764803,PCDH1,protocadherin 1
+210904_s_at,0.0203,0.000407,-3.6481269,-0.115059,-1.7928981,IL13RA1,interleukin 13 receptor subunit alpha 1
+214777_at,0.0203,0.000407,-3.6478576,-0.1159,-3.1964967,IGKC,immunoglobulin kappa constant
+202833_s_at,0.0205,0.000414,-3.6429943,-0.131065,-4.0850786,SERPINA1,serpin family A member 1
+204655_at,0.0205,0.000414,-3.6427832,-0.131723,-1.7189486,CCL5,C-C motif chemokine ligand 5
+220933_s_at,0.0206,0.000418,-3.6402062,-0.139752,-1.1374749,ZCCHC6,zinc finger CCHC-type containing 6
+217859_s_at,0.021,0.000434,-3.6296862,-0.172484,-1.3116821,SLC39A9,solute carrier family 39 member 9
+210763_x_at,0.0211,0.000436,-3.6283644,-0.176592,-1.7334991,NCR3,natural cytotoxicity triggering receptor 3
+200660_at,0.0211,0.000438,-3.6269692,-0.180926,-2.9893228,S100A11,S100 calcium binding protein A11
+213912_at,0.0236,0.000512,-3.5812428,-0.322263,-1.9249355,TBC1D30,TBC1 domain family member 30
+202917_s_at,0.024,0.000525,-3.5740485,-0.344373,-4.1065236,S100A8,S100 calcium binding protein A8
+218748_s_at,0.0242,0.000532,-3.5699967,-0.35681,-1.6998393,EXOC5,exocyst complex component 5
+216915_s_at,0.0246,0.000544,-3.563605,-0.376407,-2.3627586,PTPN12,"protein tyrosine phosphatase, non-receptor type 12"
+211430_s_at,0.0246,0.000547,-3.5617757,-0.382011,-3.6318498,MIR8071-2///MIR8071-1///IGHV4-31///IGHM///IGHG2///IGHG1,microRNA 8071-2///microRNA 8071-1///immunoglobulin heavy variable 4-31///immunoglobulin heavy constant mu///immunoglobulin heavy constant gamma 2 (G2m marker)///immunoglobulin heavy constant gamma 1 (G1m marker)
+201971_s_at,0.0259,0.000587,-3.5410223,-0.445426,-1.423074,ATP6V1A,ATPase H+ transporting V1 subunit A
+211973_at,0.026,0.000595,-3.5373232,-0.456698,-1.2114895,NUDT3,nudix hydrolase 3
+211644_x_at,0.026,0.000595,-3.5371226,-0.457309,-3.4741107,IGK///IGKC,immunoglobulin kappa locus///immunoglobulin kappa constant
+206954_at,0.0281,0.000655,-3.5090299,-0.542613,-2.0766392,WT1-AS,WT1 antisense RNA
+210854_x_at,0.0285,0.00067,-3.502135,-0.563468,-1.9390576,SLC6A8,solute carrier family 6 member 8
+210786_s_at,0.0286,0.000677,-3.4989682,-0.573035,-1.139124,FLI1,"Fli-1 proto-oncogene, ETS transcription factor"
+204445_s_at,0.0286,0.000678,-3.4986173,-0.574095,-2.1374904,ALOX5,arachidonate 5-lipoxygenase
+205102_at,0.0286,0.000685,-3.4953918,-0.583832,-1.6856675,TMPRSS2,"transmembrane protease, serine 2"
+211231_x_at,0.0287,0.000691,-3.4929873,-0.591087,-1.2352467,CYP4A11,cytochrome P450 family 4 subfamily A member 11
+217741_s_at,0.0291,0.000704,-3.4874718,-0.607711,-1.1140832,ZFAND5,zinc finger AN1-type containing 5
+201531_at,0.0295,0.000719,-3.4811975,-0.626598,-1.7192469,ZFP36,ZFP36 ring finger protein
+206722_s_at,0.0295,0.00072,-3.4807426,-0.627966,-1.3890602,LPAR2,lysophosphatidic acid receptor 2
+201043_s_at,0.0297,0.000726,-3.4781507,-0.63576,-1.5232524,ANP32A,acidic nuclear phosphoprotein 32 family member A
+205708_s_at,0.03,0.000741,-3.4720858,-0.653978,-1.0944037,TRPM2,transient receptor potential cation channel subfamily M member 2
+221578_at,0.03,0.000745,-3.4705717,-0.658522,-2.9044713,RASSF4,Ras association domain family member 4
+212332_at,0.03,0.000747,-3.4696875,-0.661175,-1.2850755,RBL2,RB transcriptional corepressor like 2
+209671_x_at,0.03,0.000747,-3.4696002,-0.661437,-1.5016646,TRAC,T-cell receptor alpha constant
+208891_at,0.03,0.000748,-3.4691996,-0.662639,-2.3246149,DUSP6,dual specificity phosphatase 6
+219662_at,0.0308,0.000771,-3.4602113,-0.689575,-1.4235554,C2orf49,chromosome 2 open reading frame 49
+211868_x_at,0.0309,0.000775,-3.4588739,-0.693578,-1.9413634,IGHV4-31///IGHM///IGHG3///IGHG2///IGHG1///IGHD///IGHA2///IGHA1///IGH,immunoglobulin heavy variable 4-31///immunoglobulin heavy constant mu///immunoglobulin heavy constant gamma 3 (G3m marker)///immunoglobulin heavy constant gamma 2 (G2m marker)///immunoglobulin heavy constant gamma 1 (G1m marker)///immunoglobulin heavy constant delta///immunoglobulin heavy constant alpha 2 (A2m marker)///immunoglobulin heavy constant alpha 1///immunoglobulin heavy locus
+211574_s_at,0.0313,0.0008,-3.4491973,-0.722505,-1.6826948,CD46,CD46 molecule
+219210_s_at,0.032,0.000829,-3.4385755,-0.754184,-1.6372729,RAB8B,"RAB8B, member RAS oncogene family"
+207765_s_at,0.032,0.000833,-3.4370791,-0.758641,-1.0739146,FAM214B,family with sequence similarity 214 member B
+211440_x_at,0.032,0.000833,-3.4369821,-0.75893,-1.0752131,CYP3A43,cytochrome P450 family 3 subfamily A member 43
+204614_at,0.0324,0.000849,-3.4312756,-0.775911,-2.401114,SERPINB2,serpin family B member 2
+203167_at,0.0333,0.000888,-3.4178878,-0.815661,-2.5542065,TIMP2,TIMP metallopeptidase inhibitor 2
+204232_at,0.0337,0.000907,-3.4113273,-0.835095,-2.1489743,FCER1G,Fc fragment of IgE receptor Ig
+209949_at,0.0346,0.000941,-3.400302,-0.867688,-3.0621158,NCF2,neutrophil cytosolic factor 2
+221770_at,0.0346,0.000942,-3.4002037,-0.867978,-1.3182824,RPE,ribulose-5-phosphate-3-epimerase
+201942_s_at,0.035,0.000958,-3.3948627,-0.883736,-2.3049714,CPD,carboxypeptidase D
+215723_s_at,0.0352,0.000968,-3.3918012,-0.89276,-2.2389914,PLD1,phospholipase D1
+211571_s_at,0.0353,0.000976,-3.3891492,-0.900571,-4.6381581,VCAN,versican
+204890_s_at,0.0356,0.00099,-3.3850508,-0.912634,-2.1540462,LCK,"LCK proto-oncogene, Src family tyrosine kinase"
+217147_s_at,0.0358,0.001,-3.381911,-0.921867,-3.2993732,TRAT1,T cell receptor associated transmembrane adaptor 1
+205633_s_at,0.0358,0.001,-3.3814961,-0.923086,-1.131795,ALAS1,5'-aminolevulinate synthase 1
+206067_s_at,0.036,0.00101,-3.3780103,-0.933328,-3.4500542,WT1,Wilms tumor 1
+208442_s_at,0.0373,0.00107,-3.3610752,-0.982964,-1.6818725,ATM,ATM serine/threonine kinase
+203922_s_at,0.0376,0.00108,-3.3572303,-0.994205,-1.8012505,CYBB,cytochrome b-245 beta chain
+220363_s_at,0.0396,0.00116,-3.3369065,-1.053453,-1.2865809,ELMO2,engulfment and cell motility 2
+204961_s_at,0.0396,0.00117,-3.3344819,-1.060502,-4.1569626,NCF1C///NCF1B///NCF1,neutrophil cytosolic factor 1C pseudogene///neutrophil cytosolic factor 1B pseudogene///neutrophil cytosolic factor 1
+211433_x_at,0.0399,0.00118,-3.3317051,-1.06857,-1.1439347,FAM214B,family with sequence similarity 214 member B
+219653_at,0.0399,0.00118,-3.3305898,-1.071809,-1.8311739,LSM14B,LSM family member 14B
+217148_x_at,0.04,0.00119,-3.3284073,-1.078144,-2.1194925,IGLJ3///IGLV@///IGLC1,immunoglobulin lambda joining 3///immunoglobulin lambda variable cluster///immunoglobulin lambda constant 1
+205831_at,0.04,0.00119,-3.328331,-1.078366,-1.3144396,CD2,CD2 molecule
+218643_s_at,0.0401,0.0012,-3.3266311,-1.083298,-1.4608458,CRIPT,CXXC repeat containing interactor of PDZ3 domain
+205627_at,0.0403,0.00121,-3.3247042,-1.088886,-3.3033157,CDA,cytidine deaminase
+208377_s_at,0.0405,0.00121,-3.3224815,-1.095329,-1.1349652,CACNA1F,calcium voltage-gated channel subunit alpha1 F
+206178_at,0.0405,0.00122,-3.3218918,-1.097038,-1.095081,PLA2G5,phospholipase A2 group V
+204479_at,0.0405,0.00122,-3.3199318,-1.102716,-1.3227781,OSTF1,osteoclast stimulating factor 1
+202444_s_at,0.0405,0.00123,-3.3193988,-1.104259,-1.1338939,ERLIN1,ER lipid raft associated 1
+216450_x_at,0.0426,0.00132,-3.2976269,-1.167139,-1.4631843,HSP90B1,heat shock protein 90 beta family member 1
+208077_at,0.0433,0.00135,-3.2908154,-1.186742,-1.2285032,C9orf38,chromosome 9 open reading frame 38
+205931_s_at,0.0439,0.00139,-3.2813369,-1.213966,-2.3837872,LOC401317///CREB5,uncharacterized LOC401317///cAMP responsive element binding protein 5
+213045_at,0.0441,0.0014,-3.2788842,-1.221001,-1.2244082,MAST3,microtubule associated serine/threonine kinase 3
+215121_x_at,0.0446,0.00142,-3.2735414,-1.236309,-2.4085933,CYAT1///IGLV1-44///IGLC1,immunoglobulin lambda light chain-like///immunoglobulin lambda variable 1-44///immunoglobulin lambda constant 1
+220618_s_at,0.0449,0.00144,-3.2698306,-1.246929,-1.9575767,ZCWPW1,zinc finger CW-type and PWWP domain containing 1
+203052_at,0.045,0.00146,-3.2648634,-1.26113,-1.5090415,C2,complement component 2
+214495_at,0.0452,0.00147,-3.2628989,-1.266742,-1.6032283,CACNG2,calcium voltage-gated channel auxiliary subunit gamma 2
+206213_at,0.0457,0.0015,-3.2568751,-1.283931,-1.7618823,WNT10B,Wnt family member 10B
+219243_at,0.0457,0.0015,-3.2565442,-1.284875,-2.829785,GIMAP4,"GTPase, IMAP family member 4"
+221755_at,0.0457,0.00151,-3.2554573,-1.287973,-2.6082805,EHBP1L1,EH domain binding protein 1 like 1
+212065_s_at,0.0459,0.00152,-3.2536336,-1.29317,-1.3183931,USP34,ubiquitin specific peptidase 34
+209629_s_at,0.0462,0.00153,-3.2502911,-1.30269,-1.7627193,NXT2,nuclear transport factor 2 like export factor 2
+202838_at,0.0466,0.00155,-3.2470874,-1.311806,-1.2396686,FUCA1,"fucosidase, alpha-L- 1, tissue"
+217235_x_at,0.0468,0.00156,-3.2441519,-1.320153,-1.4158794,IGLL5,immunoglobulin lambda like polypeptide 5
+208949_s_at,0.0468,0.00157,-3.2430339,-1.32333,-2.143879,LGALS3,"lectin, galactoside binding soluble 3"
+205254_x_at,0.0468,0.00157,-3.2422617,-1.325525,-1.8345749,TCF7,"transcription factor 7 (T-cell specific, HMG-box)"
+219931_s_at,0.0468,0.00159,-3.2392695,-1.334022,-1.2103013,KLHL12,kelch like family member 12
+207979_s_at,0.0472,0.00163,-3.2320986,-1.354361,-1.6274953,LOC100996919///CD8B,putative T-cell surface glycoprotein CD8 beta-2 chain-like///CD8b molecule
+203233_at,0.0472,0.00163,-3.2303351,-1.359357,-1.4792587,IL4R,interleukin 4 receptor
+218136_s_at,0.0473,0.00164,-3.2283263,-1.365046,-1.596445,SLC25A37,solute carrier family 25 member 37
+210184_at,0.048,0.0017,-3.2174019,-1.39593,-2.8332373,ITGAX,integrin subunit alpha X
+211650_x_at,0.0487,0.00173,-3.2129096,-1.408606,-3.0039393,IGHV3-23///IGHV4-31///IGHM///IGHG3///IGHG1///IGHD///IGHA1///IGH,immunoglobulin heavy variable 3-23///immunoglobulin heavy variable 4-31///immunoglobulin heavy constant mu///immunoglobulin heavy constant gamma 3 (G3m marker)///immunoglobulin heavy constant gamma 1 (G1m marker)///immunoglobulin heavy constant delta///immunoglobulin heavy constant alpha 1///immunoglobulin heavy locus
